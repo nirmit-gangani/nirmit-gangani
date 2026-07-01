@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nirmit Gangani
-- 👀 I wad interested in coding. currenly persuing physics
+- 👀 I wad interested in coding. currently doing bachlors degree in physics.
 - 🌱 I’m currently doign reserch in theoritical physics.
 - 💞️ I’m open to collaborate on ...
 - 📫 How to reach me with nirmitgangani11@gmail.com.
