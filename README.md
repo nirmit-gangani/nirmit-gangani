@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nirmit-Gangani
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning "pacman" , "kotlin" , "perl" , "ruby"  .
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Nirmit Gangani
+- 👀 I wad interested in coding. currenly persuing physics
+- 🌱 I’m currently doign reserch in theoritical physics.
+- 💞️ I’m open to collaborate on ...
 - 📫 How to reach me with nirmitgangani11@gmail.com.
 
 <!---
